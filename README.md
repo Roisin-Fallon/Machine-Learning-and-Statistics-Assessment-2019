@@ -1,16 +1,15 @@
 # Machine-Learning-and-Statistics-Assessment-2019
 
-<p align ="center"><img src="images/" alt="Boston Housing " width="300" height="300" title="Boston Housing"/></p>
+<p align ="center"><img src="images/boston.jpg" alt="Boston Housing " width="300" height="300" title="Boston Housing"/></p>
 
 ## Introduction
 
 This assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter notebook. This project can be brokedn into 3 distinct sections: 
 
-1. <b><i>Description: </i></b> Create a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset.
-2. <b><i>Regression:</i></b>To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount. 
-3. <b><i>Analyse:</i></b> Analyse the relationship between the variables within the dataset. 
+1. <b><i>Describe: </i></b>Use descriptive statistics and plots to describe the Boston House Prices dataset.
+2. <b><i>Infer:</i></b>Use inferential statistics to analyse whether there is a signiﬁcant diﬀerence in median house prices between houses that are along the Charles river and those that aren’t. 
+3. <b><i>Predict:</i></b> Use keras to create a neural network that can predictthe median house price based on the other variables in the dataset.
 
-Please find the full project breakdown 
 
 ## How to download the repository:
 1. Download the repository from the following link https://github.com/Roisin-Fallon/Machine-Learning-and-Statistics-Assessment-2019
