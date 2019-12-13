@@ -10,7 +10,7 @@ This assessment concerns the well-known Boston Housing dataset and the Python pa
 2. <b><i>Infer:</i></b>Use inferential statistics to analyse whether there is a signiﬁcant diﬀerence in median house prices between houses that are along the Charles river and those that aren’t. 
 3. <b><i>Predict:</i></b> Use keras to create a neural network that can predictthe median house price based on the other variables in the dataset.
 
-Please find the full breakdown of the project in PDF form <a hreef=https://github.com/Roisin-Fallon/Machine-Learning-and-Statistics-Assessment-2019/blob/master/Project.ipynb> here </a>
+Please find the full breakdown of the project in PDF form <a href=https://github.com/Roisin-Fallon/Machine-Learning-and-Statistics-Assessment-2019/blob/master/Project.ipynb> here </a>
 
 
 ## How to download the repository:
